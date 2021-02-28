@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Codesutra.tech
+image: /img/pexels-cottonbro-4709289.jpg
+heading: Codesutra.tech
+subheading: The best developers are  everywhere.  We help you find them.
 mainpitch:
-  title: Why Kaldi
+  title: Why Codesutra
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
